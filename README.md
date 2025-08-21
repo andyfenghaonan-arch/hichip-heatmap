@@ -12,7 +12,7 @@ A web-based visualization tool for exploring transcription factor binding patter
 
 ## Quick Start
 
-1. **Online Access**: Visit the [live demo](https://andyfenghaonan-arch.github.io/tf-heatmap-browser-full/)
+1. **Online Access**: Visit the [live demo](https://andyfenghaonan-arch.github.io/hichip-heatmap/)
 2. **Select Parameters**:
    - Choose a transcription factor
    - Select ENCODE experiment ID
